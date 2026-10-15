@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Quem sou eu
+## Um pouquinho sobre mim!
 
 Estagiária de TI de sistemas numa distribuidora de alimentos 100% nordestina,
 aqui de Recife. Resolvo os problemas do dia a dia com tecnologia.
