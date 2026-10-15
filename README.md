@@ -26,21 +26,17 @@ tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco todo d
 
 - [Energético é meu combustível oficial]
 - [Resolvo o problema antes de saber que ele existe]
-- [Hobby]
+- [Adoro montar quebra-cabeças!]
 
 ### ⚙️ Stack & Ferramentas
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Redes](https://img.shields.io/badge/Redes-000000?style=flat&logo=cisco&logoColor=white)
-![Suporte](https://img.shields.io/badge/Suporte_T%C3%A9cnico-4CAF50?style=flat&logo=helpdesk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-FF69B4?style=flat&logo=windows&logoColor=white&labelColor=FF69B4)
+![Linux](https://img.shields.io/badge/Linux-FF69B4?style=flat&logo=linux&logoColor=white&labelColor=FF69B4)
+![Redes](https://img.shields.io/badge/Redes-FF69B4?style=flat&logo=cisco&logoColor=white&labelColor=FF69B4)
+![Suporte](https://img.shields.io/badge/Suporte_T%C3%A9cnico-FF69B4?style=flat&logo=helpdesk&logoColor=white&labelColor=FF69B4)
+![SQL](https://img.shields.io/badge/SQL-FF69B4?style=flat&logo=mysql&logoColor=white&labelColor=FF69B4)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white&labelColor=FF69B4)
 
-### 📊 Minhas estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&color=FF69B4&center=true&vCenter=true&width=400&height=50&lines=Obrigada+pela+visita!" alt="Tchau!"/>
