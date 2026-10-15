@@ -9,8 +9,6 @@
   </a>
 </p>
 
-## Quem sou eu
-
 Profissional de TI numa distribuidora de alimentos 100% nordestina, aqui de Recife.
 Resolvo os problemas do dia a dia com tecnologia. 
 
