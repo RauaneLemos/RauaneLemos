@@ -28,9 +28,9 @@ tecnologia existe pra facilitar a vida de alguém — e é isso que eu busco tod
 
 ### 🎲 Fatos aleatórios sobre mim
 
-- [Energético é meu combustível oficial]
-- [Resolvo o problema antes de saber que ele existe]
-- [Adoro montar quebra-cabeças!]
+- Energético é meu combustível oficial
+- Resolvo o problema antes de saber que ele existe
+- Adoro montar quebra-cabeças!
 
 ### ⚙️ Stack & Ferramentas
 
@@ -44,8 +44,8 @@ tecnologia existe pra facilitar a vida de alguém — e é isso que eu busco tod
 
 ### 📊 Minhas estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RauaneLemos&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RauaneLemos&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&color=FF69B4&center=true&vCenter=true&width=400&height=50&lines=Obrigada+pela+visita!" alt="Tchau!"/>
