@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/RauaneLemos">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=500&height=80&lines=Oie!+Sou+Rauane!" alt="Digitando..."/>
   </a>
 </p>
@@ -14,11 +14,11 @@ Estagiária de TI de sistemas numa distribuidora de alimentos 100% nordestina,
 aqui de Recife. Resolvo os problemas do dia a dia com tecnologia.
 
 O que me motiva? Entender o negócio por trás do código. No fim das contas, toda
-tecnologia existe pra facilitar a vida de alguém — e é isso que eu busco todo dia.
+tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco todo dia.
 
-- 🔭 **Hoje:** Estagiária de TI de sistemas
-- 🌱 **Aprendendo:** Javascript
-- 📫 **Bora conversar:** [aneluribelemos@gmail.com](mailto:aneluribelemos@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rauane-l-ba7167322?trk=contact-info)
+- 🔭 **Hoje:** Estagiária de TI de sistemas;
+- 🌱 **Aprendendo:** Javascript;
+- 📫 **Bora conversar:** [aneluribelemos@gmail.com](mailto:aneluribelemos@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rauane-l-ba7167322?trk=contact-info).
 
 ### 🎧 Som do meu fone
 
@@ -28,8 +28,8 @@ tecnologia existe pra facilitar a vida de alguém — e é isso que eu busco tod
 
 ### 🎲 Fatos aleatórios sobre mim
 
-- Energético é meu combustível oficial
-- Resolvo o problema antes de saber que ele existe
+- Energético é meu combustível oficial;
+- Resolvo o problema antes de saber que ele existe;
 - Adoro montar quebra-cabeças!
 
 ### ⚙️ Stack & Ferramentas
