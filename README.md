@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="480" height="480" alt="Snoopy" src="https://github.com/user-attachments/assets/3be216e3-a331-4668-8b3a-33dfc5a91cfd" />
-
+  <img width="180" height="180" alt="Snoopy" src="https://github.com/user-attachments/assets/38e8b5a7-b364-4f76-aeaf-546d7277a614" />
 </p>
 
 ## Oie! Eu sou Rauane Luiza! 👋
@@ -12,9 +11,9 @@ O que me motiva? Entender o negócio por trás do código. No fim das contas,
 toda tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco todo dia.
 
 - 🔭 **Hoje:** TI na distribuição de alimentos
-- 🌱 **Aprendendo:** [tecnologia que você está estudando]
-- 💬 **Me pergunte sobre:** [assunto que você domina]
-- 📫 **Bora conversar:** [e-mail] · [LinkedIn]
+- 🌱 **Aprendendo:** 
+- 💬 **Me pergunte sobre:** 
+- 📫 **Bora conversar:** [aneluribelemos@gmail.com] · [LinkedIn]
 
 ### 🎲 Fatos aleatórios sobre mim <img src="URL-GIF-PEQUENO" width="28"/>
 
