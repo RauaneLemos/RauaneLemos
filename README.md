@@ -17,12 +17,12 @@ toda tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco t
 
 ### 🎲 Fatos aleatórios sobre mim <img src="URL-GIF-PEQUENO" width="28"/>
 
-- [ex: café é meu combustível oficial]
-- [ex: resolvo o problema antes de saber que ele existe]
-- [ex: seu hobby, time, série, música...]
+- [Energético é meu combustível oficial]
+- [resolvo o problema antes de saber que ele existe]
+- [Ouvindo agora]
 
 <!-- cole aqui suas seções de Stack e Stats -->
 
 <p align="center">
-  <img src="URL-GIF-DE-DESPEDIDA" width="240" alt="Tchau!"/>
+  <img width="324" height="348" alt="Tchau!" src="https://github.com/user-attachments/assets/c40c739e-43a2-40eb-9123-59dfc4f0eb2b" />
 </p>
