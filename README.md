@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="URL-GIF-DE-ABERTURA" width="280" alt="Snoopy"/>
+  <img width="480" height="480" alt="Snoopy" src="https://github.com/user-attachments/assets/3be216e3-a331-4668-8b3a-33dfc5a91cfd" />
+
 </p>
 
 ## Oie! Eu sou Rauane Luiza! 👋
