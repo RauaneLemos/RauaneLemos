@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/SEU-USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=E+a%C3%AD!+Eu+sou+o+[Seu+Nome];Profissional+de+TI+na+distribui%C3%A7%C3%A3o;Resolvendo+problemas+com+tecnologia" alt="Digitando..."/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=E+a%C3%AD!+Eu+sou+o+[Seu+Nome]; alt="Digitando..."/>
   </a>
 </p>
 
