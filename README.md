@@ -17,10 +17,10 @@ Resolvo os problemas do dia a dia com tecnologia.
 O que me motiva? Entender o negócio por trás do código. No fim das contas, toda
 tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco todo dia.
 
-- 🔭 **Hoje:** TI na distribuição de alimentos
-- 🌱 **Aprendendo:** 
-- 💬 **Me pergunte sobre:** [assunto que você domina]
-- 📫 **Bora conversar:** [aneluribelemos@gmail.com] · [link do LinkedIn]
+- 🔭 **Hoje:** Estagiária de TI de sistemas;
+- 🌱 **Aprendendo:** Javascript;
+- 📫 **Bora conversar:** [aneluribelemos@gmail.com] · [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
+- **Ouvindo agora:** [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22tze7t6nziln77gutgn3e6oq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ee719e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🎲 Fatos aleatórios sobre mim
 
