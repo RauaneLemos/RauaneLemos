@@ -44,8 +44,9 @@ tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco todo d
 
 ### 🏅 Certificados
 
-[![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](URL-DO-CERTIFICADO-1)
-[![Strings em Python](https://img.shields.io/badge/Strings_em_Python-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](URL-DO-CERTIFICADO-2)
+[![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](https://cursos.alura.com.br/user/aneluribelemos/course/logica-programacao-mergulhe-programacao-javascript/certificate)
+[![Strings em Python](https://img.shields.io/badge/Strings_em_Python-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](https://cursos.alura.com.br/user/aneluribelemos/course/string-python-extraindo-informacoes-url/certificate)
+[![Orientação a Objetos e API](https://img.shields.io/badge/Orienta%C3%A7%C3%A3o_a_Objetos_e_API-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](https://cursos.alura.com.br/user/aneluribelemos/course/python-avance-orientacao-objetos-consuma-api/certificate)
 
 ### 📊 Minhas estatísticas
 
