@@ -35,12 +35,17 @@ tecnologia existe pra facilitar a vida de alguém, e é isso que eu busco todo d
 ### ⚙️ Stack & Ferramentas
 
 ![Windows](https://img.shields.io/badge/Windows-FF69B4?style=flat&logo=windows&logoColor=white&labelColor=FF69B4)
-![Linux](https://img.shields.io/badge/Linux-FF69B4?style=flat&logo=linux&logoColor=white&labelColor=FF69B4)
+![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat&logo=microsoftexcel&logoColor=white&labelColor=FF69B4)
 ![Redes](https://img.shields.io/badge/Redes-FF69B4?style=flat&logo=cisco&logoColor=white&labelColor=FF69B4)
 ![Suporte](https://img.shields.io/badge/Suporte_T%C3%A9cnico-FF69B4?style=flat&logo=helpdesk&logoColor=white&labelColor=FF69B4)
 ![SQL](https://img.shields.io/badge/SQL-FF69B4?style=flat&logo=mysql&logoColor=white&labelColor=FF69B4)
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white&labelColor=FF69B4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white&labelColor=FF69B4)
+
+### 🏅 Certificados
+
+[![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](URL-DO-CERTIFICADO-1)
+[![Strings em Python](https://img.shields.io/badge/Strings_em_Python-FF69B4?style=flat&logo=alura&logoColor=white&labelColor=FF69B4)](URL-DO-CERTIFICADO-2)
 
 ### 📊 Minhas estatísticas
 
